@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Edson Felix</h1>
 <h3 align="left">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java, AWS and React**
+- 🌱 I’m currently learning **Cybersecurity, Java, AWS and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/85ED](https://github.com/85ED)
 
-- 📫 How to reach me **edsonfelixnet@gmail.com**
+- 📫 How to reach me **edsonfelixnet@gmail.com** or by tel: +55(11)96564-3020.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
