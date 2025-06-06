@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.js, MySQL, Cybersecurity and AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/85ED](https://github.com/85ED)
-
 - 📫 How to reach me **edsonfelixnet@gmail.com** or by tel: +55(11)96564-3020.
 
 <h3 align="left">Connect with me:</h3>
