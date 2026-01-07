@@ -52,6 +52,12 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=85ed&show_icons=true&locale=en&layout=compact" alt="85ed" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=85ED&layout=compact&langs_count=8&theme=default" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=85ed&show_icons=true&locale=en" alt="85ed" /></p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=85ED&show_icons=true&count_private=true&theme=default" />
+</div>
