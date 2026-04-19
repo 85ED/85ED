@@ -19,28 +19,6 @@
 
 <h3 align="left">Stack</h3>
 
-### Backend
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Spring](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
-
-### Database
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
-![Supabase](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg)
-
-### DevOps & Cloud
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-![Railway](https://railway.app/brand/logo-light.svg)
-
-### Tools
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Bitbucket](https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg)
-
-### Frontend
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+| Backend | Database | DevOps & Cloud | Tools | Frontend |
+|---------|----------|----------------|-------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/><br>Java<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30"/><br>Spring<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/><br>Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30"/><br>PostgreSQL<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"/><br>MySQL<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="30" height="30"/><br>Supabase | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"/><br>Docker<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30"/><br>AWS<br><br><img src="https://railway.app/brand/logo-light.svg" width="30" height="30"/><br>Railway | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"/><br>Git<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="30" height="30"/><br>Bitbucket | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/><br>React<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30" height="30"/><br>Next.js<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/><br>JavaScript<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/><br>HTML5<br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/><br>CSS3 |
