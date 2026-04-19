@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Edson Felix</h1>
 <h3 align="left">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning <b>Java, JavaScript, Node.js, Python, PostgreSQL, MySQL, Cybersecurity and Cloud</b>
+- 🌱 I’m currently learning **Java, JavaScript, Node.js, Python, PostgreSQL, MySQL, Cybersecurity and Cloud**
 
-- 📫 How to reach me <b>edsonfelixnet@gmail.com</b> or by tel: +55(11)96564-3020.
+- 📫 How to reach me **edsonfelixnet@gmail.com** or by tel: +55(11)96564-3020.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,45 +19,28 @@
 
 <h3 align="left">Stack</h3>
 
-<table>
-  <tr>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>DevOps & Cloud</th>
-    <th>Tools</th>
-    <th>Frontend</th>
-  </tr>
+### Backend
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Spring](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
 
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/>
-    </td>
+### Database
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+![Supabase](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg)
 
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="35"/>
-    </td>
+### DevOps & Cloud
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+![Railway](https://railway.app/brand/logo-light.svg)
 
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/>
-      <img src="https://railway.app/brand/logo-light.svg" width="35"/>
-    </td>
+### Tools
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Bitbucket](https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg)
 
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="35"/>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"/>
-    </td>
-  </tr>
-</table>
+### Frontend
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
