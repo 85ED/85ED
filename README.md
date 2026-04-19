@@ -21,11 +21,11 @@
 
 <table>
   <tr>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Database</b></td>
-    <td align="center"><b>DevOps & Cloud</b></td>
-    <td align="center"><b>Tools</b></td>
-    <td align="center"><b>Frontend</b></td>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>DevOps & Cloud</th>
+    <th>Tools</th>
+    <th>Frontend</th>
   </tr>
 
   <tr>
