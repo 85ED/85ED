@@ -17,56 +17,47 @@
 
 ---
 
-<h3 align="left">Backend</h3>
+<h3 align="left">Stack</h3>
+
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Database</b></td>
+    <td align="center"><b>DevOps & Cloud</b></td>
+    <td align="center"><b>Tools</b></td>
+    <td align="center"><b>Frontend</b></td>
   </tr>
-</table>
 
----
-
-<h3 align="left">Database</h3>
-<table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="40"/></td>
-  </tr>
-</table>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/>
+    </td>
 
----
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="35"/>
+    </td>
 
-<h3 align="left">DevOps & Cloud</h3>
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://railway.app/brand/logo-light.svg" width="40"/></td>
-  </tr>
-</table>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/>
+      <img src="https://railway.app/brand/logo-light.svg" width="35"/>
+    </td>
 
----
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="35"/>
+    </td>
 
-<h3 align="left">Tools</h3>
-<table>
-  <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40"/></td>
-  </tr>
-</table>
-
----
-
-<h3 align="left">Frontend</h3>
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"/>
+    </td>
   </tr>
 </table>
